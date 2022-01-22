@@ -11,7 +11,7 @@ ScreenShot of the application's main window :
 
 
 
-![Alt text](![image](https://user-images.githubusercontent.com/79197959/150657672-298b9bcd-14dc-43aa-adc6-0eaf75ebfde0.png?raw=true "Exit")
+![Alt text](https://user-images.githubusercontent.com/79197959/150657672-298b9bcd-14dc-43aa-adc6-0eaf75ebfde0.png?raw=true "Exit")
 
 
 Rules of the game: 
